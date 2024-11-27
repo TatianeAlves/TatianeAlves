@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Tatiane Alves 
+
+[![Tati's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianeAlves&show_icons=true&theme=omni)](https://github.com/TatianeAlves/github-readme-stats)
 
 If you're here, it means you found me on some other social network and are curious to learn a bit more about my background and what I've been up to in my career as a data scientist and lifelong learner. So, here we go!
 
